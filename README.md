@@ -1,5 +1,3 @@
-# anti-virus-atalho
-Software escrito para remover aquele vírus que oculta todos seus documentos de um pen-drive e cria vários atalhos com o mesmo nome dos seus arquivos.
 # <i>Antivírus Atalho.</i>👨🏻‍💻
 <p align="justify">O vírus de atalho USB é um tipo de malware que infecta sua unidade USB de uma forma que torna os seus arquivos inacessíveis. Este Trojan esconde todos seus arquivos e substitui-os por atalhos com o mesmo nome.</p>
 
